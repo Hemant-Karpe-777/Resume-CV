@@ -92,7 +92,7 @@ Passionate about **continuous learning, emerging technologies, and cross-functio
   - [MLflow for Model Versioning & Experiment Tracking](https://github.com/Hemant-Karpe-777/Machine-Learning-Projects-Showcase/tree/main/AdvancedML%20%26%20Feature%20Drift/mlflow)  
   - [Streamlit Dashboard App](https://github.com/Hemant-Karpe-777/Machine-Learning-Projects-Showcase/tree/main/AdvancedML%20%26%20Feature%20Drift/streamlit)  
 - [ML Interpretability & AI Integration](https://github.com/Hemant-Karpe-777/Machine-Learning-Projects-Showcase/tree/main/ML%20Interpretability%20%26%20AI%20Integration)  
-  - AI-generated explanations for non-technical audiences using LLMs.  
+  - [AI-generated explanations for non-technical audiences using LLMs](https://github.com/Hemant-Karpe-777/Machine-Learning-Projects-Showcase/tree/main/ML%20Interpretability%20%26%20AI%20Integration)  
 
 ---
 
