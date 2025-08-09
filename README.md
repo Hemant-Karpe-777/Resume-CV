@@ -21,16 +21,18 @@ Passionate about **continuous learning, emerging technologies, and cross-functio
 
 ## 🛠 Skills  
 
+- **Machine Learning**
+- **Prompt Engineering**  
 - **Data Analysis (Python)**  
 - **SQL & ETL Process**  
 - **Excel & Power Query**  
 - **Power BI**  
 - **Data Visualization**  
-- **Machine Learning**  
 - **Feature Engineering**  
 - **AI Agents / Automation**  
-- **Prompt Engineering**  
-- **Data Cleaning & EDA**  
+- **Data Cleaning & EDA**
+
+### 📚 Soft-Skills
 - **Time Management**  
 - **Problem-Solving**  
 - **Adaptability**  
